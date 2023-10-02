@@ -4,7 +4,7 @@
 |----|----|----| :----: |
 | 18.09.2023 | [General info about the course.](./lectures/general_info.ipynb) [Floating point numbers.](./lectures/lecture1/lecture-1.ipynb) | [Example of ResNet model and different formats of floating point numbers](./practice/class1/floating_point_resnet_model.ipynb) | | |
 | 25.09.2023 | [Vector and matrix norms. Unitary matrices and algorithms stability](./lectures/lecture2/lecture2.ipynb) | | |
-| 02.10.2023 | Matrix rank. Low-rank matrix approximation and Singular Value Decomposition (SVD). Linear systems and condition number. | | | 
+| 02.10.2023 | Matrix rank. Low-rank matrix approximation and Singular Value Decomposition (SVD). [Linear systems and condition number.](./lectures/lecture3/lecture3-1.ipynb) | | | 
 | 09.10.2023 | Matrix multiplication and methods for computing QR decomposition | | | 
 | 16.10.2023 | Eigenvalue decomposition and QR algorithm | | | 
 | 23.10.2023 | Overview of methods for computing SVD | | | 
