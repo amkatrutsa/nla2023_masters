@@ -6,7 +6,7 @@
 | 25.09.2023 | [Vector and matrix norms. Unitary matrices and algorithms stability](./lectures/lecture2/lecture2.ipynb) | | |
 | 02.10.2023 | [Linear systems and condition number](./lectures/lecture3/lecture3.ipynb) | [Comparison of different approaches to solve linear systems](./practice/class3/linsys.ipynb) | | 
 | 09.10.2023 | [Matrix rank. Low-rank matrix approximation and Singular Value Decomposition (SVD).](./lectures/lecture4/lecture4.ipynb) | [SVD for recommender systems](./practice/class4/svd4recsys.ipynb) | | 
-| 16.10.2023 | [Methods for computing QR decomposition. Eigenvalue decomposition.](./lectures/lecture5/lecture5.ipynb) | | | 
+| 16.10.2023 | [Methods for computing QR decomposition. Eigenvalue decomposition.](./lectures/lecture5/lecture5.ipynb) | [Power method convergence](./practice/class5/power_method.ipynb) | | 
 | 23.10.2023 | QR algorithm. Matrix multiplication. Overview of methods for computing SVD | | | 
 | 30.10.2023 | Matrix functions, vol. 1 | | |
 | 06.11.2023 | Projects presentations | | | | 
