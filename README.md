@@ -9,12 +9,11 @@
 | 16.10.2023 | [Methods for computing QR decomposition. Eigenvalue decomposition.](./lectures/lecture5/lecture5.ipynb) | [Power method convergence](./practice/class5/power_method.ipynb) | [HW1](./hw/hw1.ipynb) </br> Deadline: November 2, 23:50 MSK
 | 23.10.2023 | [QR algorithm. Overview of methods for computing SVD](./lectures/lecture6/lecture6.ipynb) | | | 
 | 30.10.2023 | [Matrix functions, vol. 1](./lectures/lecture7/lecture7.ipynb) | | |
-| 06.11.2023 | [Projects presentations, vol. 1](./projects/project1/README.md) | | | | 
-| 13.11.2023 | Sparse matrices and where to meet them. Intro to iterative methods for linear systems | | | 
-| 20.11.2023 | Krylov methods. Intro to preconditioners | | |
-| 27.11.2023 | Dense structured matrices. Matrix functions, vol. 2 | | |
-| 04.12.2023 | Randomized approach to NLA problems. Intro to tensors | | | 
-| 11.12.2023 | Tensor decompositions and why are they important | | |
-| 18.12.2023 | TBD | | |
+| 06.11.2023 | [Projects presentations, vol. 1](./projects/project1/README.md) | | [HW2](./hw/hw2.ipynb) </br> Deadline: November 26, 23:50 MSK 
+| 20.11.2023 | Sparse matrices and where to meet them. Intro to iterative methods for linear systems | | | 
+| 27.11.2023 | Krylov methods. Intro to preconditioners | | |
+| 04.12.2023 | Dense structured matrices. Matrix functions, vol. 2 | | |
+| 11.12.2023 | Randomized approach to NLA problems. Intro to tensors | | | 
+| 18.12.2023 | Tensor decompositions and why are they important | | |
 | 25.12.2023 | Projects presentations | | |
 
