@@ -11,9 +11,8 @@
 | 30.10.2023 | [Matrix functions, vol. 1](./lectures/lecture7/lecture7.ipynb) | | |
 | 06.11.2023 | [Projects presentations, vol. 1](./projects/project1/README.md) | | [HW2](./hw/hw2.ipynb) </br> Deadline: November 29, 23:50 MSK 
 | 20.11.2023 | [Sparse matrices and where to meet them. LU for sparse matrices.](./lectures/lecture8/lecture8.ipynb) | | | 
-| 27.11.2023 | [Intro to iterative methods for linear systems. Krylov methods.](./lectures/lecture9/lecture9.ipynb) Intro to preconditioners | | |
-| 04.12.2023 | Dense structured matrices. Matrix functions, vol. 2 | | |
-| 11.12.2023 | Randomized approach to NLA problems. Intro to tensors | | | 
-| 18.12.2023 | Tensor decompositions and why are they important | | |
+| 27.11.2023 | [Intro to iterative methods for linear systems. Krylov methods.](./lectures/lecture9/lecture9.ipynb) | | |
+| 11.12.2023 | Intro to preconditioners. Matrix functions, vol. 2. | | | 
+| 18.12.2023 | Intro to tensors. Tensor decompositions and why are they important | | |
 | 25.12.2023 | Projects presentations | | |
 
